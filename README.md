@@ -83,8 +83,10 @@ math_scores_by_grade
    
    Pre-changes on scores by grade levels in math
         ![alt text](https://github.com/wprich/School_District_Analysis/blob/main/Resources/Pre_Math_Scores.png)
+        
    Post-changes on scores by grade levels in math
         ![alt text](https://github.com/wprich/School_District_Analysis/blob/main/Resources/Post_Math_Scores.png)
+        
      The reading charts have a similar outcome.  Links will be provided for any interested in seeing them as well.
           https://github.com/wprich/School_District_Analysis/blob/main/Resources/Pre_Reading_Scores.png
           https://github.com/wprich/School_District_Analysis/blob/main/Resources/Post_Reading_Scores.png
